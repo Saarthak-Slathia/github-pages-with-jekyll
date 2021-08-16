@@ -1,6 +1,6 @@
 ---
-title: "Your blog post title"
-date: YYYY-MM-DD
+title: "test bloggie"
+date: 2021-08-16
 ---
 
 
